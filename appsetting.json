@@ -1,0 +1,12 @@
+[
+    {
+        "name": "APP_ID",
+        "slotSetting": false,
+        "value": "ww324"
+    },
+    {
+        "name": "APP_SECRET",
+        "slotSetting": false,
+        "value": "secret"
+    }
+]
